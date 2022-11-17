@@ -120,3 +120,8 @@ h2 strong {
   font-weight: 700;
   letter-spacing: 3px;
 }
+
+#btn:hover {
+  cursor: pointer;
+  background-color: var(--blue-800);
+}
