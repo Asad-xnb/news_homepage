@@ -29,3 +29,8 @@ header li {
   font-weight: 400;
   color: var(--blue-800);
 }
+
+header li:hover {
+  cursor: pointer;
+  color: var(--primary-red);
+}
