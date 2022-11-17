@@ -1,0 +1,9 @@
+html {
+  --primary-orange: hsl(35, 77%, 62%);
+  --primary-red: hsl(5, 85%, 63%);
+
+  --Off-white-200: hsl(36, 100%, 99%);
+  --grayish-blue-300: hsl(233, 8%, 79%);
+  --grayish-blue-700: hsl(236, 13%, 42%);
+  --blue-800: hsl(240, 100%, 5%);
+}
