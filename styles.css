@@ -7,3 +7,25 @@ html {
   --grayish-blue-700: hsl(236, 13%, 42%);
   --blue-800: hsl(240, 100%, 5%);
 }
+
+body {
+  margin: 40px 150px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header ul {
+  display: flex;
+}
+
+header li {
+  list-style: none;
+  margin-left: 25px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  color: var(--blue-800);
+}
