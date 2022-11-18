@@ -11,10 +11,12 @@ html {
 }
 
 body {
+  align-items: center;
   margin: 40px 150px;
 }
 
 header {
+  width: 1140px;
   display: flex;
   align-items: center;
   justify-content: space-between;
