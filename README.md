@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Asad-xnb/news_homepage)
-- Live Site URL: [Add live site URL here](https://asad-xnb.github.io/news_homepage/)
+- Solution URL: [solution](https://github.com/Asad-xnb/news_homepage)
+- Live Site URL: [live site](https://asad-xnb.github.io/news_homepage/)
 
 ## My process
 
