@@ -11,6 +11,7 @@ html {
 }
 
 body {
+  background-color: var(--Off-white-200);
   margin: 40px 150px;
 }
 
