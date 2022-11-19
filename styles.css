@@ -42,6 +42,11 @@ main {
   width: 1134px;
 }
 
+main,
+header {
+  margin: 0 auto;
+}
+
 li {
   list-style: none;
 }
